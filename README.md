@@ -12,7 +12,7 @@ The HLW8032 is a high precision energy metering IC that uses a CMOS process and 
     <li>  Built-in voltage reference Source </li>
     <li>  built-in power monitoring circuit </li>
     <li>  UART communication mode </li>
-    <li>  SOP8 package type </li>
+    <li>  <strong> SOP8 </strong> package type </li>
 </ol>
 
 
