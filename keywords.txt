@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For HLW8032
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+HLW8032	KEYWORD1	HLW8032
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+SerialReadLoop	KEYWORD2
+GetVol	KEYWORD2
+GetCurrent	KEYWORD2
+GetActivePower	KEYWORD2
+GetInspectingPower	KEYWORD2
+GetPowerFactor EYWORD2
+GetPF	KEYWORD2
+GetPFAll	KEYWORD2
+GetKWh	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
