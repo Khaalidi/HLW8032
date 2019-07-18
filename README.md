@@ -21,6 +21,3 @@ The HLW8032 is a high precision energy metering IC that uses a CMOS process and 
   <img src="Docs/HLW8032.png"  title="HLW8032 Pin Descriptions">
 </p>
 
-S.No | Pin Name | Type | Description
------------- | -------------
-1 | 1 | 1 | 
