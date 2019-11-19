@@ -8,7 +8,7 @@ HLW8032 HL;
 
 void setup()
 {
-    HL.begin(Serial1,4);  
+    HL.begin(Serial,4);  
     Serial.begin(4800);
     Serial.swap();
 }
